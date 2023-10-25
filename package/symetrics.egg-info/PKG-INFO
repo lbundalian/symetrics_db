@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: symetrics
+Version: 0.0.2
+Summary: Symetrics API
+Author: Linnaeus Bundalian
+Author-email: linnaeusbundalian@gmail.com
+Keywords: python,synonymous variants
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+Package for SYMETRICS API
